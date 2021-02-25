@@ -42,6 +42,7 @@ public class CacheConfiguration {
             createCache(cm, io.catwizard.auidit.domain.User.class.getName());
             createCache(cm, io.catwizard.auidit.domain.Authority.class.getName());
             createCache(cm, io.catwizard.auidit.domain.User.class.getName() + ".authorities");
+            createCache(cm, io.catwizard.auidit.domain.Book.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
