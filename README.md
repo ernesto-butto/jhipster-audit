@@ -1,3 +1,10 @@
+![2021-02-25_21h58_06](https://user-images.githubusercontent.com/4500001/109216653-1b8ddd00-77b5-11eb-975b-bec7ce827d61.png)
+![2021-02-25_21h58_31](https://user-images.githubusercontent.com/4500001/109216654-1c267380-77b5-11eb-8834-56977579c4d8.png)
+![2021-02-25_21h58_40](https://user-images.githubusercontent.com/4500001/109216656-1c267380-77b5-11eb-9bc6-d8d70f06d8a6.png)
+![2021-02-25_21h59_04](https://user-images.githubusercontent.com/4500001/109216657-1c267380-77b5-11eb-84d8-e7e78e06e237.png)
+![2021-02-25_21h59_18](https://user-images.githubusercontent.com/4500001/109216658-1cbf0a00-77b5-11eb-8eeb-4b928181311b.png)
+![2021-02-25_21h59_46](https://user-images.githubusercontent.com/4500001/109216659-1cbf0a00-77b5-11eb-8e66-0341de7e242f.png)
+
 # audit
 
 This application was generated using JHipster 6.5.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.5.1](https://www.jhipster.tech/documentation-archive/v6.5.1).
